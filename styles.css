@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    height: 1px;
+    width: 99;
+    border-width: 4px;
+    color: coral;
+
+}
+h1{
+ color: coral;
+}
+p{
+    color: darkslategrey;
+}
+strong{
+    color: black;
+}
+a{
+    color: blueviolet;
+}
+li{
+    color: firebrick;
+}
+thead{
+    color: blue;
+}
+table{
+    border: solid black 1px;
+}
